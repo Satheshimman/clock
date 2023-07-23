@@ -85,5 +85,7 @@ if(year>0){
 		years.innerHTML=(today.getFullYear())}
 
 // years.innerHTML=year;//
+
 }
+sathesh()
 setInterval(sathesh,1000)
